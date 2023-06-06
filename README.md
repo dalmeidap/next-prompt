@@ -3,12 +3,13 @@
 
 ## To implement
 
-[x] Implement Search
+🟢 Implement Search 
  - search by prompt content. 
  - search by tag. 
  - search by username.  
-[ ] Implement Click on Tag  
-[ ] Implement View Other profiles  
+
+⚪ Implement Click on Tag  
+⚪ Implement View Other profiles  
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
