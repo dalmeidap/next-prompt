@@ -1,9 +1,12 @@
+![Screenshot 2023-06-05 at 11 31 53 PM](https://github.com/dalmeidap/next-prompt/assets/54037941/0183e981-feba-4129-9c34-391264d680d5)
+
+
 ## To implement
 
-[ ] Implement Search
- - search by prompt content
- - search by tag
- - search by username
+[x] Implement Search
+ - search by prompt content. 
+ - search by tag. 
+ - search by username.  
 [ ] Implement Click on Tag  
 [ ] Implement View Other profiles  
 
